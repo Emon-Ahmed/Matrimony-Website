@@ -1,5 +1,3 @@
-# Matrimony-Website
-
 ## Getting Started
 
 First, install & run the development server:
