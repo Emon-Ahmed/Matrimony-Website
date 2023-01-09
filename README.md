@@ -1,6 +1,6 @@
 # Matrimony Website
 > Outline a brief description of your project.
-> Live Demo [_Click here_](https://www.emonahmed.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live Demo [_Click here_](https://www.emonahmed.com)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -21,7 +21,6 @@
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -39,8 +38,6 @@ List the ready features here:
 
 ## Screenshots
 ![Example screenshot](./public/mockup.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
